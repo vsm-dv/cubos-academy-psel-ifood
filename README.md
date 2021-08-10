@@ -1,1 +1,1 @@
-# cubos-academy-psel-ifood
+# Resolução da segunda questão do exercício da aula de 10/08/2021, que consiste em montar um portfólio inicial utilizando as respostas dos desafios do processo seletivo da Cubos Academy.
